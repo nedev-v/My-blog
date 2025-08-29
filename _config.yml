@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Oleksandr Nediev"
 description              : &description "My name is Oleksandr Nediev and this is my blog where I share with you my tech and life expiriences!"
 url                      : "https://nedev-v.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nedev-v/my-blog.github.io"
+baseurl                  : "/my-blog" # the subpath of your site, e.g. "/blog"
+repository               : "nedev-v/my-blog"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
