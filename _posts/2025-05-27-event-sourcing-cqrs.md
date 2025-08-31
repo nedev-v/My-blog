@@ -12,7 +12,10 @@ The last year of college is always busy. My final semester was no exception, fil
 
 My classmates organized an IT event at Howest, which I was able to attend in the evening after my internship. It was a unique opportunity to listen to Kim Van Renterghem, a Senior Software Engineer at ZF Group with extensive experience building complex and scalable projects in the vehicle industry. This sector presents unique challenges, so learning from someone with hands-on experience was extremely valuable.
 
-The event attracted a diverse audience. Many attendees were not Howest students but full-time developers who discovered the event on LinkedIn. It was also exciting to see some of my lecturers participating in the discussions.
+![Kim Van Renterghem during the lecture]({{ site.baseurl }}/images/posts/cqrs_event.jpg)
+*Kim Van Renterghem during his presentation*
+
+The event attracted a diverse audience. Many attendees were not Howest students but full-time developers who discovered the event on LinkedIn. It was also exciting to see some of my lecturers participating in the event and discussions.
 
 The lecture was very technical and focused on Event Sourcing and CQRS (Command Query Responsibility Segregation) architectural patterns, which often complement each other.
 
