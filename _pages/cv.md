@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-# My CV
-
 ![My CV]({{ site.baseurl }}/images/CV.jpg)
