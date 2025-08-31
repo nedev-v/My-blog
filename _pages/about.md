@@ -24,9 +24,11 @@ Now if you are curious about my blog posts and what I write about feel free to c
 How did I build this website?
 =====
 
-This portfolio was created using Jekyll, a static site generator that transforms Markdown files into a fully functional website. Jekyll allowed me to focus on content creation while providing a flexible framework for theming, layouts, and navigation. Additionally I really got used to working with Markdown during my studies. I usually use it for notes and organizing my everyday life. It also has a clean way to style the pages easily which is a huge benefit for me.
+This portfolio was created using Jekyll, a static site generator that transforms Markdown files into a fully functional website. Jekyll allowed me to focus on content creation while providing a flexible framework for theming, layouts, and navigation. For this project, I used the AcademicPages template, which provided a clean, professional design with ready-made layouts for posts, projects, and portfolio items. 
 
-The site is hosted on GitHub Pages, which provides free and reliable hosting for static websites. This was actually my first time working with GitHub Pages. I saw a lot of examples of such websites online but never knew how they were made. Originally this portfolio was dedicated for my "Professional Networking" subject. My lecturers suggested this option as a possibility to deploy the website. I thought that this was a great possibility to try and learn something new. 
+During my studies, I became quite familiar with Markdown, often using it for notes and organizing my daily tasks. Its clean and simple syntax also makes styling pages easy, which is a major advantage for me.
+
+The site is hosted on GitHub Pages, which offers free and reliable hosting for static websites. This was my first time working with GitHub Pages. Although I had seen many examples of such websites online, I had never explored how they were built. Originally, this portfolio was created for my "Professional Networking" subject, and my lecturers suggested using GitHub Pages as a deployment option. I saw this as an excellent opportunity to learn something new and gain hands-on experience in deploying GitHub Pages.
 
 
 
