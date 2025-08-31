@@ -35,7 +35,7 @@ She also tought us that our websites' perfomance can be very different on variou
 
 I learned a lot of valuable information during Karlijn's presentation as I haven't had expirience yet with any web perfomance optimization and was new to the topic. Now I can definitely use her tips during my work and personal projects to make user expirience way better. 
 
-![Karlijn during her presentation]({{ site.baseurl }}/images/posts/karlijn_mollie.jpg)
+![Karlijn during her presentation]({{ site.baseurl }}/images/posts/korlijn_mollie.jpg)
 *Karlijn during her presentation*
 
 After these two presentations it was time for networking. I had a couple of drinks and got into a conversation with Mollie's developers. They told me a lot of interesting insights on the fintech sector and payment processing. I also found out about inner structure of the big companies such as Mollie and how they are organized. It was interesting to finally get an idea of how big tech companies and their teams work together to constantly deliver new features and products out to the world. 
