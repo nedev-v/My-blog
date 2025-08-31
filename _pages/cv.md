@@ -11,4 +11,4 @@ redirect_from:
 
 # My CV
 
-![My CV](/images/cv.jpg)
+![My CV](/images/CV.jpg)
