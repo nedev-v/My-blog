@@ -17,7 +17,7 @@ They are one of the biggest payment services in Europe. What they do is they are
 
 As I already mentioned once a year Mollie organizes a networking event. The goal of it is to bring the developers who are somehow connected to Mollie together for one evening for interesting tech presentations and drinks. Most of the people there were expirienced developers who are working in finance. I was so surprised when I found out that I was the only student there. Anyways I had a great time and gained a lot of new knowledge. So let's go a bit into details of the presentations. 
 
-![Mollie scene for the presentation]({{ site.baseurl }}/images/posts/mollie_photo.jpg)
+![Mollie scene for the presentation]({{ site.baseurl }}/images/posts/mollie_photo.jpg){: width="400px" }
 *Mollie scene for the presentation*
 
 The first presenter was Mackenzie Jackson from a belgian company "Aikido Security". His company concentrates on providing auditing and security services uncovering and helping fixing vulnerabilities.
