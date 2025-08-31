@@ -11,4 +11,4 @@ redirect_from:
 
 # My CV
 
-![My CV](/images/CV.jpg)
+![My CV]({{ site.baseurl }}/images/CV.jpg)
