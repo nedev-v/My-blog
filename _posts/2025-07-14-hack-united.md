@@ -1,5 +1,5 @@
 ---
-title: "Hack united Hackaton Expirience"
+title: "Hack United Hackaton Expirience"
 date: 2025-07-14
 permalink: /posts/hack-united-expirience
 tags:
@@ -33,7 +33,7 @@ There is one more thing that I've done for the first time in my life. It was wor
 
 The scope of this project proved ambitious for the hackaton, so we tried to deliver the idea in the best manner. Our team created a documentation with the dexcribed features and the prototype of the features. As for the PoC we delivered a fully working home page with the ability to record, customize and post an audio as well as to see the recommendstions feed.
 
-![Echoes project](/images/posts/echoes.png)
+![Echoes project]({{ site.baseurl }}/images/posts/echoes.png)
 *The home page of Echoes project*
 
 This was my first hackaton and I'm proud of the accomplishments. There were definitely some mistakes made in terms of planning and focus on the right thing. Next time we should concentrate more on the actual PoC rsther than on the idea itself and choose the smaller scope for the application. Anyway it was really fun to see how two people can build an idea from zero into someting feasible just in two days. I enjoyed this expirience and would definitely try it again.

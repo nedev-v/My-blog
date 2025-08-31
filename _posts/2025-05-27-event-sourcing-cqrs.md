@@ -1,7 +1,7 @@
 ---
 title: "Learning After Hours: Exploring Event Sourcing and CQRS at Howest"
 date: 2025-07-14
-permalink: /posts/hack-united-expirience
+permalink: /posts/event-sourcing-cqrs-event
 tags:
   - Dev Events
   - Lecture
